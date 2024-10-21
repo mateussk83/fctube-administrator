@@ -15,4 +15,4 @@ Este projeto é um painel administrativo para o **FCTube**, uma plataforma de v�
 - **Linguagem**: Python
 - **Framework**: Django
 - **Banco de Dados**: PostegreSQL
-- **Outras dependências**: RABBITMQ
+- **Outras dependências**: RABBITMQ, Docker
